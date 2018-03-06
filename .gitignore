@@ -1,0 +1,6 @@
+.envrc
+*.egg-info
+*.pyc
+*.whl
+build/
+dist/
